@@ -1,0 +1,60 @@
+.title{
+color: #54a6b1 ;
+text-align: center;
+ 
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 187, 0, 0.653);
+    width: 1000px;
+    margin: auto;
+    border:3px solid red;
+
+}
+.contact {
+ 
+        border-bottom: 2px #071008c4 solid;
+        padding: 14px;
+        margin-bottom: 5px;
+
+        
+}
+
+input:focus-visible {
+    outline: 2px solid#54a6b1;
+    border-radius: 3px;
+
+}
+    
+
+.message{
+
+  border-bottom: 4px #0d1010 solid;   
+}
+
+
+.information{
+
+    border-bottom: 4px #0d1010 solid;
+
+}
+
+.inside_button{
+
+
+
+display: block;
+border-color: black;
+font-size: 1rem;
+color: #ece9f1;
+background-color: rgb(15, 1, 1);
+
+}
+
+
+
+
+
+
